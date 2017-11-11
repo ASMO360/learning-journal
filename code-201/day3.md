@@ -1,7 +1,7 @@
-#Joshua Fredrickson's Code201 Learning Journal
-###November 8
+# Joshua Fredrickson's Code201 Learning Journal
+### November 8
 
-##*Oh boy!  Loops through me for a Loop today*
+## *Oh boy!  Loops through me for a Loop today*
 I had thought that I had a good understanding of loops in the Code 102 course,
 but it seemed like all of that information went out the window today.  I was
 having issues with my logic.  I remember that logic was not a strong suit for me
